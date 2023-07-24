@@ -34,10 +34,15 @@
 		{
 			"Name": "AppleMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"WindowsNoEditorWin32"
+		"WindowsNoEditorWin32",
+		"HoloLens"
 	]
 }
