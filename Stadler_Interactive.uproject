@@ -51,6 +51,6 @@
 	"TargetPlatforms": [
 		"WindowsNoEditor",
 		"WindowsNoEditorWin32",
-		"HoloLens"
+		"Windows"
 	]
 }
